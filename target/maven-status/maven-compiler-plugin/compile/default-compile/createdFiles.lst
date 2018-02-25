@@ -1,0 +1,10 @@
+devops/business/DataManagerImpl.class
+devops/mvc/MonitoringController.class
+devops/integration/LibraryDAOImpl.class
+devops/business/DockerData.class
+devops/integration/LibraryDAO.class
+devops/mocking/LoginController.class
+devops/business/Library.class
+devops/mocking/Authenticate.class
+devops/business/DataManager.class
+devops/jetty/WebServer.class
